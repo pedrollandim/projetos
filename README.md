@@ -22,7 +22,7 @@ Filtro por estado:
 
 http://localhost:8080/StatusDosEstados?page1&size=2&sort=autorizador,asc
 
-Retorna o estado atual:
+Retorna a leitura mais atual:
 
 http://localhost:8080/StatusDosEstados?page1&size=20&sort=id,desc
 
