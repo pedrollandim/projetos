@@ -1,6 +1,6 @@
 <h1>Spring boot<h1>
 
-Para iniciar o projeto ele ficar lendo a pagina da fazenda basta abrir o link:
+O projeto é iniciado com o link:
 
 http://localhost:8080/
 
