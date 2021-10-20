@@ -1,6 +1,6 @@
 <h1>Spring boot<h1>
 
-O projeto é iniciado com o link:
+Um API REST utilizando Spring boot que pega os dados de uma pagina web e salva em um banco de dados. O projeto é iniciado com o link:
 
 http://localhost:8080/
 
